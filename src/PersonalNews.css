@@ -1,0 +1,361 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+    background-color:#F1F1F1;
+  }
+  
+  .BackX{
+    width: 1,440px;
+    height: 152px;
+    padding: 64px 160px 64px 160px;
+    gap: 752px;
+    opacity: 0px;
+  }
+  .LogoX{
+    width: 24px;
+    height: 24px;
+    gap: 10px;
+    opacity: 0px;
+  }
+  .LogoX img{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .NewsFillX{
+    width: 1440px;
+    height: 1718px;
+    padding: 96px 160px 36px 160px;
+    gap: 100px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+
+    border-bottom: 1px solid #00000033;
+  }
+  .LeftX{
+    width: 1120px;
+    height: 1586px;
+    gap: 70px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: column;
+  }
+  .FrameX{
+    width: 1120px;
+    height: 64px;
+    gap: 697px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: row;
+  }
+  .InfoTopX{
+    width: 323px;
+    height: 64px;
+    gap: 16px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: row;
+  }
+  .MediaX{
+    width: 100px;
+    height: 24px;
+    gap: 10px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .InfoX{
+    width: 243px;
+    height: 52px;
+    gap: 12px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: column;
+
+  }
+  .InfoTop imgX{
+    width: 64px;
+    height: 64px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .Authors-nameX{
+    width: 124px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+
+    word-wrap: nowrap;
+  }
+  .Info-BottomX{
+    width: 243px;
+    height: 18px;
+    gap: 4px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+  }
+  .MediaX img{
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 3px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .Main-ImageX{
+    width: 1120px;
+    height: 480px;
+    gap: 0px;
+    border-radius: 4px;
+    opacity: 0px;
+  }
+  .GirlX{
+    width: 64px;
+    height: 64px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 100px;
+  }
+  .main-partX{
+    width: 1120px;
+    height: 98px;
+    gap: 24px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: column;
+  }
+  .main-partX h1{
+    width: 1120px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 38px;
+    text-align: left;
+  }
+  .main-partX p{
+    width: 1120px;
+    height: 36px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: SF Pro Display;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+  }
+  .DetailsX{
+    width: Hug (1,120px)px;
+    height: Hug (640px)px;
+    gap: 24px;
+    opacity: 0px;
+    
+    display: flex;
+    flex-direction: column;
+  }
+  .DetailsX h1{
+    width: 129px;
+    height: 28px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+  }
+  .DetailsX p{
+    font-family: SF Pro Display;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+
+  .FullInfoX{
+    width: 1120px;
+    height: 588px;
+    gap: 0px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 0.5px;
+  }
+  .EndX{
+    width: 1,120px;
+    height: 24px;
+    gap: 947px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .LikeCommentsX{
+    width: 111px;
+    height: 24px;
+    gap: 14px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: row;
+  }
+  .LikeX{
+    width: 53px;
+    height: 24px;
+    gap: 4px;
+    opacity: 0px;
+    
+    display: flex;
+    flex-direction: row;
+  }
+  .LikeX span{
+    width: 25px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+
+    color: #B7B7B7;
+  }
+  .LikeX img{
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 3px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .CommentsX{
+    width: 44px;
+    height: 24px;
+    gap: 4px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: row;
+  }
+  .CommentsX img{
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 3px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .CommentsX span{
+    width: 16px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0px;
+ 
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #B7B7B7;
+  }
+  .BookmarkX{
+    width: 24px;
+    height: 24px;
+    padding: 3px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: flex-end;
+  }
+  .BookmarkX img{
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 3px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .JulyX{
+    width: 36px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0.5px;
+
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    color: #B7B7B7;
+  }
+  .delimeterX{
+    width: 12px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0.5px;
+
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #B7B7B7;
+  }
+  .dateX{
+    width: 77px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0.5px;
+
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    color: #B7B7B7;
+  }
+  .AvaibilityX{
+    width: 90px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0.5px;
+
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    color: #B7B7B7;
+  }
